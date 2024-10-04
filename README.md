@@ -1,4 +1,4 @@
-# React + Vite + Taildct + Vite + tailwindcss + MongoDB
+# React + Vite + tailwindcss + MongoDB
 
 Cấu hình file để chạy : clone git - terminal vscode npm i để cài lại gói npm 
 - npm run dev để chạy chương trình
